@@ -1,4 +1,4 @@
-# 🍽️ CampusEats – Advanced College Canteen Management System
+# 🍽️ CampusEats – College Canteen Management System
 
 CampusEats is a robust, full-stack management solution designed for college canteens. It streamlines the ordering process for students while providing admins and canteen staff with powerful tools for order management, inventory tracking, and business analytics.
 
